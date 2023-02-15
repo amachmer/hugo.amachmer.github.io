@@ -1,4 +1,4 @@
-baseURL = 'https://amachmer.de/'
+baseURL = 'https://hugo.amachmer.github.io'
 languageCode = 'en-us'
 title = 'Hello World'
 theme = 'ananke'
